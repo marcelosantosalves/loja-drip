@@ -13,6 +13,20 @@ Projeto desenvolvido durante o programa **Geração Tech 3.0 (Digital College)**
 - **Navegação Intuitiva**: Listagem de produtos organizada e coleções em destaque.
 - **Mobile First**: Layout 100% adaptável para dispositivos móveis.
 
+- 📦 Como rodar o projeto
+bash
+# 1. Clone o repositório
+git clone https://github.com/weberfern/projeto-final-gtech-frontend.git
+
+# 2. Acesse a pasta
+cd Projeto-Final-GTech
+
+# 3. Instale as dependências
+npm install
+
+# 4. Inicie o servidor de desenvolvimento
+npm run dev
+
 - Repositório GitHub:https://github.com/marcelosantosalves/loja-drip
 - Link do Vercel:https://vercel.com/marcelosantosalves-projects/loja-drip
 
