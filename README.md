@@ -16,10 +16,10 @@ Projeto desenvolvido durante o programa **Geração Tech 3.0 (Digital College)**
 - 📦 Como rodar o projeto
 bash
 # 1. Clone o repositório
-git clone https://github.com/weberfern/projeto-final-gtech-frontend.git
+git clone https://github.com/marcelosantosalves/loja-drip
 
 # 2. Acesse a pasta
-cd Projeto-Final-GTech
+cd loja-drip
 
 # 3. Instale as dependências
 npm install
